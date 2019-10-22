@@ -2,7 +2,19 @@
 
 
 我的同学，hello，
-李志杰
+李志强
+，
+，
+
+
+
+，，，
+，，，
+Python
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/J-little-hub/J-little-hub.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
